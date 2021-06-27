@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsSolutionMCS", "ContactsSolutionMCS\ContactsSolutionMCS.csproj", "{FBBFB084-E8EF-4BD9-A848-76F0B29E5D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.Core", "Contacts.Core\Contacts.Core.csproj", "{ABBD371E-7CB6-44C8-A92A-EAB33C95CDF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBFB084-E8EF-4BD9-A848-76F0B29E5D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBFB084-E8EF-4BD9-A848-76F0B29E5D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBFB084-E8EF-4BD9-A848-76F0B29E5D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBFB084-E8EF-4BD9-A848-76F0B29E5D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBD371E-7CB6-44C8-A92A-EAB33C95CDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBD371E-7CB6-44C8-A92A-EAB33C95CDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBD371E-7CB6-44C8-A92A-EAB33C95CDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBD371E-7CB6-44C8-A92A-EAB33C95CDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AB3768E-42AF-40C7-9DE0-4DD75E77F86B}
+	EndGlobalSection
+EndGlobal
