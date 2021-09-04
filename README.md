@@ -13,7 +13,7 @@ Please click on below link to watch development video
 ```
 
 ```javascript
-<add name="rmhContext" connectionString="data source=nameOfSqlServer;initial catalog=RMHTest;persist security info=True;user id=userforSQLServer;password=passwordOfSqlServer;MultipleActiveResultSets=True;" providerName="System.Data.EntityClient" />
+<add name="rmhContext" connectionString="data source=nameOfSqlServer;initial catalog=RMHTest;persist security info=True;user id=userforSQLServer;password=passwordOfSqlServer;MultipleActiveResultSets=True;" providerName="System.Data.SqlClient" />
 ```
 
 
